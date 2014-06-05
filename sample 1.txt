@@ -1,0 +1,5 @@
+cd document
+
+$subFolders = dir
+
+echo $subFolders
