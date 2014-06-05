@@ -1,0 +1,5 @@
+$time = date
+
+$username = WhoAmI
+
+echo $username, " it is ", $time
